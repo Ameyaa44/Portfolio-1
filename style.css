@@ -73,13 +73,6 @@ body {
 .ed-box .year {
     font-weight: 600;
 }
-@media(max-width: 576px) {
-    .education {
-        padding-left: 18px;
-        margin-left: 5px;
-    }
-
-}
 
 .project-card {
     background-color: #232323; 
