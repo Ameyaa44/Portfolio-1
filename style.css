@@ -107,7 +107,7 @@ body {
 
 .contact-form{
     background-color: #0f0e0e;
-    height: 500px;
+    height: 100%;
     /* padding: 50px 0; */
 }
 .contact-form input{
@@ -131,7 +131,7 @@ body {
     color: white;
 }
 .social-icons a i:hover{
-    color: rgb(33, 33, 204);
+    color: rgb(48, 174, 228);
 }
 /* .copyright{
     margin-top: 40px;
